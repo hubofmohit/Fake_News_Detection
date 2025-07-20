@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+
+# To install the requirements, write the command given below in terminal...
+```bash/terminal
+    pip freeze > requirements.txt
