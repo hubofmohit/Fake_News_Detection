@@ -35,20 +35,21 @@ This project is designed to classify news articles as **fake** or **real** using
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
-```bash
+```bash/Terminal
 git clone https://github.com/your-username/fake-news-detector.git
 cd fake-news-detector
 
 ###2. Install Required Libraries
-```bash
+```bash/Terminal
 pip install -r requirements.txt
 
 ###3. Run the Python Script
-```bash
+```bash/Terminal
 python fake_news_detector.py
 
 
 ## Output Example
+
 Accuracy: 1.0
 
 Confusion Matrix:
